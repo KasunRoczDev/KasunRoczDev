@@ -28,10 +28,20 @@
 <p align="left">
   🔭 Currently enrolled in a Computer Science and Technology Degree Program at Uva Wellassa University <br>
   🤝 Actively seeking collaborations in Software Development <br>
-  🌱 Proficient in Java, SpringBoot, MySQL, JavaScript, ReactJS, ReactTS, Tailwind, and more! <br>
-  💬 Feel free to ask me anything related to JavaScript or React <br>
-  📫 Reach out to me via email at <a href="mailto:kasunrocz.cs@gmail.com">kasunrocz.cs@gmail.com</a>
-</p>
+  🌱 Proficient in Java, SpringBoot, MySQL, JavaScript, ReactJS, ReactTS, Tailwind, Vue.js, Laravel, NestJS, and more! <br>
+  💬 Feel free to ask me anything related to JavaScript, React, IoT integrations, Software Architecture, or Cloud Infrastructure <br>
+  📫 Reach out to me via email at <a href="mailto:kasunrocz.cs@gmail.com">kasunrocz.cs@gmail.com</a> <br>
+  
+  ### Expertise:
+  - **Software Architecture**: Designing and building both monolithic and microservice architectures.
+  - **Cloud Solutions**: Extensive experience with cloud service providers, VPCs, billing systems, and cost estimation for cloud resources.
+  - **API Design and Integration**: Developing and integrating APIs for enterprise-level applications.
+  - **IoT Integrations**: Building solutions for tracking and managing devices and data across IoT ecosystems.
+  - **Database Design and Optimization**: Working with PostgreSQL, MySQL, Firebase, and designing efficient, scalable database systems.
+  - **Tech Stack Management**: Managing and optimizing tech stacks, including ReactJS, Vue.js, NestJS, and Laravel.
+  - **Real-time Applications**: Building real-time features for enterprise applications using frameworks like Vue.js and React.js.
+  - **Containerization and DevOps**: Experience with Docker and Kubernetes for deploying microservices and APIs, along with managing servers.
+  - **Authentication Systems**: Implementing multi-layered authentication systems using technologies like NestJS and Laravel for secure login and data management.
 
 ---
 

@@ -1,7 +1,6 @@
 <!-- Horizontal Divider (Gradient) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider"/>
 
-<!-- Title -->
 <h2 align="center">Hi 👋! I'm Kasun Bandara</h2>
 
 ---
@@ -15,76 +14,66 @@
 
 ---
 
-<!-- Confusion Quote -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+<p align="center">
+  <i>Confusion is part of Programming</i>
+</p>
 
 ---
 
 <!-- About Me Section -->
 <p align="left">
-  🔭 Currently enrolled in a Computer Science and Technology Degree Program at Uva Wellassa University <br>
-  🤝 Actively seeking collaborations in Software Development <br>
-  🌱 Proficient in Java, SpringBoot, MySQL, JavaScript, ReactJS, ReactTS, Tailwind, Vue.js, Laravel, NestJS, and more! <br>
-  💬 Feel free to ask me anything related to JavaScript, React, IoT integrations, Software Architecture, or Cloud Infrastructure <br>
-  📫 Reach out to me via email at <a href="mailto:kasunrocz.cs@gmail.com">kasunrocz.cs@gmail.com</a> <br>
-  
-  ### Expertise:
-  - **Software Architecture**: Designing and building both monolithic and microservice architectures.
-  - **Cloud Solutions**: Extensive experience with cloud service providers, VPCs, billing systems, and cost estimation for cloud resources.
-  - **API Design and Integration**: Developing and integrating APIs for enterprise-level applications.
-  - **IoT Integrations**: Building solutions for tracking and managing devices and data across IoT ecosystems.
-  - **Database Design and Optimization**: Working with PostgreSQL, MySQL, Firebase, and designing efficient, scalable database systems.
-  - **Tech Stack Management**: Managing and optimizing tech stacks, including ReactJS, Vue.js, NestJS, and Laravel.
-  - **Real-time Applications**: Building real-time features for enterprise applications using frameworks like Vue.js and React.js.
-  - **Containerization and DevOps**: Experience with Docker and Kubernetes for deploying microservices and APIs, along with managing servers.
-  - **Authentication Systems**: Implementing multi-layered authentication systems using technologies like NestJS and Laravel for secure login and data management.
+  👨‍💻 Currently, I am working as a software engineer with expertise in full-stack development. I am focused on building scalable systems, leveraging the power of microservices architecture, and optimizing backend workflows. <br>
+  🌱 I have hands-on experience in designing and implementing IoT systems, working with frameworks like Laravel, NestJS, and React. I also specialize in building APIs and integrating third-party services for business automation. <br>
+  💬 Feel free to ask me anything related to JavaScript, React, Laravel, Microservices, or System Architecture. <br>
+  📫 Reach out to me via email: <a href="mailto:kasunrocz.cs@gmail.com">kasunrocz.cs@gmail.com</a>
+</p>
 
 ---
 
 <!-- Tech Stack Section -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">💻 Tech Stack</h2></summary>
+    <summary><h2 style="display: inline-block; font-family: 'Roboto', sans-serif; font-weight: 700; color: #2196F3;">💻 Tech Stack</h2></summary>
   </ul>
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="TailwindCSS" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="Material UI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="Redux" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
-  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/postgresql/336791" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=bitbucket" height="50" alt="Bitbucket" />
-  <img src="https://skillicons.dev/icons?i=ci" height="50" alt="CI/CD" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" />
+  <!-- Frontend Technologies -->
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="Redux" title="Redux" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="TailwindCSS" title="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js" title="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" title="Vite" />
+
+  <!-- Backend Technologies -->
+  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS" title="NestJS" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" title="PHP" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" title="MongoDB" />
+
+  <!-- DevOps & Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes" title="Kubernetes" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="GitLab" title="GitLab" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="VS Code" title="VS Code" />
 </p>
 
 ---
@@ -92,7 +81,7 @@
 <!-- Connect With Me Section -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block; font-family: 'Roboto', sans-serif; font-weight: 700; color: #FF5722;">🤝 Connect With Me</h2></summary>
   </ul>
 </div>
 
@@ -100,7 +89,7 @@
   <a href="https://www.linkedin.com/in/KasunRoczDev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn" />
   </a>
-<!--   <a href="https://twitter.com/Sanidu_Udaw" target="_blank">
+  <!-- <a href="https://twitter.com/Sanidu_Udaw" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="Twitter" />
   </a> -->
 </p>
@@ -108,8 +97,8 @@
 ---
 
 <!-- Profile Views Counter -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=KasunRoczDev&label=Profile%20views&color=0e75b6&style=flat" alt="KasunRoczDev" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KasunRoczDev&label=Profile%20views&color=0e75b6&style=flat" alt="KasunRoczDev" />
 </p>
 
 ---
@@ -139,4 +128,4 @@
 ---
 
 <!-- Horizontal Divider (Gradient) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider"/>

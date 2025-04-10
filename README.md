@@ -63,26 +63,28 @@
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
   <img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js" />
   <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="WordPress" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="50" alt="Anaconda" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=xd" height="50" alt="XD" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="IntelliJ IDEA" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="50" alt="Eclipse IDE" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" height="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=replit" height="50" alt="Replit" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="Stack Overflow" />
+  <img src="https://skillicons.dev/icons?i=bitbucket" height="50" alt="Bitbucket" />
+  <img src="https://skillicons.dev/icons?i=ci" height="50" alt="CI/CD" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" />
 </p>
 
 ---
